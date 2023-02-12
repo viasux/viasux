@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viasux
 - 👀 I’m interested in Tech, Linux, and Cyber Security
-- 🌱 I’m currently learning Rust, Unreal, & C#!
+- 🌱 I’m currently learning Rust, Unreal, & C++!
 - 📫 How to reach me via@kitties.gay, [m] @via:the-apothecary.club
 
 <!---
